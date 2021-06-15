@@ -1,0 +1,198 @@
+{
+  "id": "2466628",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18229186",
+      "name": "评 论",
+      "font_class": "pinglun",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "21532190",
+      "name": "下 载",
+      "font_class": "xiazai",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "12358913",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "15585817",
+      "name": "点赞",
+      "font_class": "dianzan11",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "18692073",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "10061845",
+      "name": "单曲循环",
+      "font_class": "danquxunhuan1",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "11380236",
+      "name": "列表循环",
+      "font_class": "liebiaoxunhuan",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "19473327",
+      "name": "随机播放",
+      "font_class": "tubiao_suijibofang3",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "4765735",
+      "name": "play-circle",
+      "font_class": "play-circle",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "4765742",
+      "name": "time out",
+      "font_class": "timeout",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "20124283",
+      "name": "SQ",
+      "font_class": "SQ",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9873442",
+      "name": "上一首 上一个",
+      "font_class": "shangyishoushangyige",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12755271",
+      "name": "心 爱心",
+      "font_class": "xinaixin",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "18462255",
+      "name": "上一首 上一个",
+      "font_class": "play-next",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6263352",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "18176543",
+      "name": "暂停",
+      "font_class": "pause-full",
+      "unicode": "ea8c",
+      "unicode_decimal": 60044
+    },
+    {
+      "icon_id": "11756068",
+      "name": "耳机",
+      "font_class": "V",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "15838525",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "7549848",
+      "name": "目录",
+      "font_class": "RectangleCopy2",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "15838560",
+      "name": "add-bold",
+      "font_class": "add-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "15838562",
+      "name": "arrow-up-bold",
+      "font_class": "arrow-up-bold",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "15838563",
+      "name": "close-bold",
+      "font_class": "close-bold",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "15838564",
+      "name": "arrow-down-bold",
+      "font_class": "arrow-down-bold",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "15838565",
+      "name": "minus-bold",
+      "font_class": "minus-bold",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "15838566",
+      "name": "arrow-right-bold",
+      "font_class": "arrow-right-bold",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "15838567",
+      "name": "select-bold",
+      "font_class": "select-bold",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    }
+  ]
+}
